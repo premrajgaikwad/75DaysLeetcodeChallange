@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0319-bulb-switcher) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
