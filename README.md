@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0334-increasing-triplet-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Sorting
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
