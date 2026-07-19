@@ -1,17 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
-      int n =nums.length;
-       int supposedCount=0;
-       supposedCount=n*(n+1)/2;
+     int supposedCount=0;
+      int n=nums.length;
+      supposedCount=n*(n+1)/2;
+    //  now finding an the sum of all the ACTUAL NUMBER in the array
 
-
-       int actualCount=0;
-       for( int num:nums){
+    int actualCount=0;
+    for(int num:nums ){
         actualCount+=num;
-       }
-       int missingNumber=supposedCount-actualCount;
-       return missingNumber;
+      
+    }
+    int missingNumber=supposedCount-actualCount;
+    return missingNumber;
 
      }
     
 }
+
