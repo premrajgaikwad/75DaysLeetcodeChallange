@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
