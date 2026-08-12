@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0155-min-stack) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
