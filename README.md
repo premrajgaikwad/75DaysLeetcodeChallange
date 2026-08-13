@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -137,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
