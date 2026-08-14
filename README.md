@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
