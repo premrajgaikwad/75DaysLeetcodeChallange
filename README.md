@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/premrajgaikwad/75DaysLeetcodeChallange/tree/master/0724-find-pivot-index) |
 ## Brainteaser
 |  |
 | ------- |
